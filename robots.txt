@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klerno-labs.github.io/review-best-skincare-for-acne-prone-skin-under-50/sitemap.xml
